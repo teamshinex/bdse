@@ -4,6 +4,7 @@
     "chalk": "^4.1.2",
     "module-alias": "^2.2.3",
     "nbt": "^0.8.1",
+    "sync-directory": "^6.0.5",
     "unzipper": "^0.12.3"
   },
   "_moduleAliases": {
