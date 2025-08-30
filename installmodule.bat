@@ -1,0 +1,1 @@
+@npm install bytenode chalk module-alias sync-directory unzipper
